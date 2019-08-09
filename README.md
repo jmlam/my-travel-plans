@@ -1,3 +1,3 @@
 # Travel Destinations
 
-A simple app to keep track of destinations I'd like to visit.
+Part of Udacity's Github/Version Control Course. my-travel-plans was used as a tool to understand commits, branches, repos etc.
